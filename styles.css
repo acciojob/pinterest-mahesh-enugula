@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+#ed-1{
+	width:0px;
+	height:0px;
+	object-fit:cover;
+}
+
+button{
+	padding:0px;
+	background-color:red;
+	color:white;
+	border-radius:0%;
+}
